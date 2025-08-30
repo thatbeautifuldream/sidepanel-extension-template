@@ -26,7 +26,7 @@ A production-ready template for creating Chrome sidepanel extensions with modern
 
 1. **Use this template:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/thatbeautifuldream/sidepanel-extension-template
    cd sidepanel-extension-template
    ```
 
